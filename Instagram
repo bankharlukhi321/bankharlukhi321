@@ -1,0 +1,10 @@
+git remote add origin https://github.com/www.instagram.com/password.git
+git branch -M main
+git push -u origin main
+echo "# -badahun_" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/ww.instagram.com/password.git
+git push -u origin main
